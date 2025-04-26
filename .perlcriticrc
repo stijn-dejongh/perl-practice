@@ -1,0 +1,25 @@
+severity = 4
+theme = core + maintenance
+verbose = 8
+
+[TestingAndDebugging::RequireUseStrict]
+severity = 5
+
+[TestingAndDebugging::RequireUseWarnings]
+severity = 5
+
+[ValuesAndExpressions::ProhibitMagicNumbers]
+severity = 2
+
+[Subroutines::ProhibitExcessComplexity]
+max_mccabe = 15
+
+[Modules::RequireExplicitPackage]
+severity = 5
+
+[Documentation::RequirePodSections]
+severity = 3
+
+[ControlStructures::ProhibitPostfixControls]
+allow = if unless while until for foreach
+

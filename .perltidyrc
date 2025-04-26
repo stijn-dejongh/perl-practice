@@ -1,0 +1,15 @@
+--maximum-line-length=100
+--indent-columns=4
+--continuation-indentation=4
+--brace-tightness=2
+--nooutdent-labels
+--nospace-for-semicolon
+--want-break-before=all
+--space-terminal-semicolons
+--space-function-paren
+--paren-tightness=2
+--noadd-semicolon
+--nolc
+--noblanks-before-comments
+--noblanks-at-end-of-file
+--warning-output
