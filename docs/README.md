@@ -1,6 +1,12 @@
 # Overview
 
+> **Perl isn't chaos by default. It's material for careful builders**
+
 # Developer Notes
+
+Other notes: 
+* [Stuff I like](./likes.md)
+* [Stuff I don't like](./dislikes.md)
 
 ## Why This Practice Project Exists
 
@@ -36,7 +42,7 @@ This practice repository is my attempt to:
 
 ---
 
-## Mindset Notes
+## Mindset Notes when working with Perl
 
 - Stabilize first — understand what’s happening before reaching for "better" solutions.
 - Structure incrementally — greenfield code gets the best habits first.
@@ -44,6 +50,11 @@ This practice repository is my attempt to:
 - Keep habits sustainable — favor small, repeatable improvements over massive cleanups.
 - Write as if I’m leaving a map for the future me — who may not remember the full context.
 
----
 
-> **Perl isn't chaos by default. It's material for careful builders**
+# References
+
+| Title                                                                                          | Description                                                            |
+|:-----------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------| 
+| [Modern Perl (Fourth Edition)](https://pragprog.com/titles/swperl/modern-perl-fourth-edition/) | A comprehensive guide to modern Perl practices and principles.         |
+| [Perldoc](https://perldoc.perl.org/)                                                           | The official Perl documentation, including modules and best practices. |
+| [PerlMaven](https://perlmaven.com/)                                                            | A resource for Perl tutorials, tips, and tricks.                       |
