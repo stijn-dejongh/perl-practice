@@ -7,6 +7,7 @@
 Other notes: 
 * [Stuff I like](./likes.md)
 * [Stuff I don't like](./dislikes.md)
+* [General reflections](./reflections.md)
 
 ## Why This Practice Project Exists
 
