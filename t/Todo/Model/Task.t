@@ -5,7 +5,7 @@ use Test::More;
 use Cwd qw(realpath);
 use FindBin qw($Dir);
 
-use lib realpath("$Dir/../../lib");
+use lib realpath("$Dir/../../../lib");
 
 print "Running tests for Todo::Model::Task...\n";
 
